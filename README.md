@@ -1,9 +1,11 @@
 # Manual-Octopath-Traveler-2-Archipelago
 Manual Archipelago Support for Octopath Traveler 2 using the Archipelago Manual Client
+
 The checks:
 - Golden Chests
 - Job Licenses and Proofs
 - Completing Chapters
+
 The Items Recieved:
 - Travelers
 - Job Licenses and Proofs
@@ -17,6 +19,7 @@ The Items Recieved:
 - Scent of Commerce Quests
 - Learned Skill Slots
 - Beast Lore Slots
+
 The Goal:
 - Beat a chosen number of chapters
 - Beat the journey for the Dawn
