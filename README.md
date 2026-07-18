@@ -1,5 +1,5 @@
 # Manual-Octopath-Traveler-2-Archipelago
-Manual Archipelago Support for Octopath Traveler 2 using the Archipelago Manual Client. Would recommend using a mod that can stop encounters (for backtracking) and a mod that increases XP and JP gain for shorter syncs. I may attempt to make a mod that does both of those things and an option to give filler items at some point.
+Manual Archipelago Support for Octopath Traveler 2 using the Archipelago Manual Client.
 
 The checks:
 - Golden Chests
@@ -23,3 +23,12 @@ The Items Recieved:
 The Goal:
 - Beat a chosen number of chapters
 - Beat the Journey for the Dawn
+
+Opional Mods:
+EXP Multiplier: Allows you to reach higher level and jp counts much faster. Useful for shorter syncs. If testing prooves that 4x EXP and JP is too low, I may up it. 
+
+https://www.nexusmods.com/octopathtraveler2/mods/100?published=1
+
+Toggle Encounters: Not my mod but allows you to toggle encounters on and off. Useful for backtracking to gather missed checks.
+
+https://www.nexusmods.com/octopathtraveler2/mods/90
