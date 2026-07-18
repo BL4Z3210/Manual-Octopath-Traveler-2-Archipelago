@@ -19,3 +19,8 @@ Throné's chapter 3 is a split chapter where both the chapters have the same rec
 
 ### --Skills and Licenses--
 Acquiring Licenses and learning job skills and support skills you don't have as items must be done but any skills you have learned but not gotten as items cannot be used. Same with licenses and proofs. This doesn't apply to the first two skill each job starts with, which can be used freely. You can learn job skills you arent allowed to use to learn support skills you can use.
+
+### --Other Stuff--
+Learned Skill Slots and Beast Lore Slots: You are not allowed to learn skills with Hikari and capture monsters with Ochette until you acquire at least one slot for their talent with the exception of Ochette's first chapter where you can capture the lizard without a slot to progress the game.
+
+Scent of Commerce: The three scent of commerce quests are also items. You need to complete one to complete Partitio's third chapter and you need to complete the Tropu'hopu one to access the Sundering Sea.
