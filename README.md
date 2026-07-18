@@ -1,12 +1,12 @@
 # Manual-Octopath-Traveler-2-Archipelago
 Manual Archipelago Support for Octopath Traveler 2 using the Archipelago Manual Client.
 
-The checks:
+### The checks:
 - Golden Chests
 - Job Licenses and Proofs
 - Completing Chapters
 
-The Items Recieved:
+### The Items Recieved:
 - Travelers
 - Job Licenses and Proofs
 - Job Skills
@@ -20,11 +20,11 @@ The Items Recieved:
 - Learned Skill Slots
 - Beast Lore Slots
 
-The Goal:
+### The Goal:
 - Beat a chosen number of chapters
 - Beat the Journey for the Dawn
 
-Opional Mods:
+### Opional Mods:
 EXP Multiplier: Allows you to reach higher level and jp counts much faster. Useful for shorter syncs. If testing prooves that 4x EXP and JP is too low, I may up it. 
 
 https://www.nexusmods.com/octopathtraveler2/mods/100?published=1
