@@ -22,4 +22,4 @@ The Items Recieved:
 
 The Goal:
 - Beat a chosen number of chapters
-- Beat the journey for the Dawn
+- Beat the Journey for the Dawn
