@@ -9,7 +9,7 @@ Rank 1: Levels 1 to 13\
 Rank 2: Levels 14 to 36\
 Rank 3: Level 37 and above
 
-Each dungeon that is not associated with a character story or crossed paths chapter requires a map to access.
+Each dungeon that is not associated with a character story or crossed paths chapter requires a map to access while each dungeon that is assocciated with a story chapter can be accessed as soon as you have the required region rank.
 ### --Story Progression--
 Each chapter of each character's story requires a "Progressive Chapter" for that character, where the next chapter in that characters story is available to play. Split chapters, such as Temenos's Chapter 3, count as two seperate chapters for item requirements and go in order from lowest to highest recommended level. Completing a new chapter sends off a check. This does not apply to character's first chapters and Crossed Path chapters, which can be completed whenever they're available but do not provide a check when beaten.
 
