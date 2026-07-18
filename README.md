@@ -1,5 +1,5 @@
 # Manual-Octopath-Traveler-2-Archipelago
-Manual Archipelago Support for Octopath Traveler 2 using the Archipelago Manual Client
+Manual Archipelago Support for Octopath Traveler 2 using the Archipelago Manual Client. Would recommend using a mod that can stop encounters (for backtracking) and a mod that increases XP and JP gain for shorter syncs. I may attempt to make a mod that does both of those things and an option to give filler items at some point.
 
 The checks:
 - Golden Chests
