@@ -33,6 +33,10 @@ Manual Archipelago Support for Octopath Traveler 2 using the Archipelago Manual 
 - Skills
 - Musical Records
 
+### The Rules:
+
+If anything is unclear, check The Rules.md in the directory and if you still have questions, contact me in my thread in the archipelago manual discord server!
+
 ### Opional Mods:
 EXP Multiplier: Allows you to reach higher level and jp counts much faster. Useful for shorter syncs. If testing prooves that 4x EXP and JP is too low, I may up it. 
 
